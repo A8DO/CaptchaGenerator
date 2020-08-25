@@ -1,1 +1,4 @@
-# this is a simple CaptchaGenerator using Vanilla JavaScript
+# CaptchaGenerator
+
+
+this is a simple CaptchaGenerator using Vanilla JavaScript;
